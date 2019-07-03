@@ -1,0 +1,1 @@
+    # good_word = word.encode('cp1251').decode('utf8') - кодировка
